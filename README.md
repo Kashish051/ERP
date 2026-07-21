@@ -1,3 +1,6 @@
+**Login mail:admin@erp.com
+Password : admin123**
+
 # Mini ERP + CRM Operations Portal
 
 ## Overview
