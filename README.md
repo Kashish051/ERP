@@ -279,7 +279,7 @@ Email:
 admin@erp.com
 
 Password:
-your_password
+admin123
 ```
 
 ---
